@@ -1,0 +1,112 @@
+/*body{
+	background-color: gray;
+}*/
+/*.delay3{
+	animation-delay: 5s;
+}
+
+.delay6{
+	animation-delay: 8s;
+}
+
+.delay9{
+	animation-delay: 13s;
+}
+*/
+
+.hero{
+	width: auto;
+	height: 90vh;
+	position: relative;
+	top: 25vh;
+}
+
+.visible{
+	visibility: visible !important;
+}
+
+.hidden{
+	visibility: hidden;
+}
+.section1{
+	padding: 8vh 0vh 8vh 0vh;
+}
+
+.nav{
+	padding: 4vh 4vh 0vh 4vh;
+    position: fixed;
+    width: 100%;
+    opacity: 0;
+    z-index: 1;
+}
+
+.nav-show{
+	opacity: 1;
+	background-color: gray;
+}
+
+.logo{
+	font-size: 2.5rem;
+}
+
+.section3{
+	padding: 10vh 0vh 6vh 0vh;
+	background-color: #F8F8F8;
+}
+
+.circle20{
+	border-radius: 100px;
+	height: 200px;
+	width: 200px;
+	background-color: purple;
+}
+
+.delay1{
+	animation-delay: 1.5s;
+}
+.delay2{
+	animation-delay: 3s;
+}
+.delay3{
+	animation-delay: 4.5s;
+}
+
+.section4{
+	padding-top: 10vh;
+}
+.section4 .row .col{
+	padding: 0rem;
+}
+.work{
+	padding-bottom: 8vh;
+}
+
+.week0, .week1, .week3, .week4{
+	padding: 2vh 6vh ;
+	background-color: black;
+	opacity: 0.5;
+	color: white;
+}
+.dash{
+	height: 0;
+    width: 3rem;
+    display: inline-block;
+    vertical-align: middle;
+    border-top: .2rem solid;
+    top: -.1rem;
+    position: relative;
+}
+
+/*.week0:hover .text {
+	visibility:visible;
+}
+.week1:hover .text {
+	visibility:visible;
+}
+.week3:hover .text {
+	visibility:visible;
+}
+.week4:hover .text {
+	visibility:visible;
+}
+*/
